@@ -14,10 +14,6 @@ jobs:
     steps:
     - name: Check out code
       uses: actions/checkout@v2
-
-    - name: Markdown Linting Action
-      uses: avto-dev/markdown-lint@v1.5.0
-
     - name: Lint README.md file
       uses: avto-dev/markdown-lint@v1
       with:
