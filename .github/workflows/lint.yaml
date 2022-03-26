@@ -16,5 +16,3 @@ jobs:
       uses: actions/checkout@v2
     - name: Lint README.md file
       uses: avto-dev/markdown-lint@v1
-      with:
-        args: 'README.md'
