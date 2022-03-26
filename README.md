@@ -10,6 +10,10 @@
 * [IBM Plex sans jp](https://github.com/IBM/plex)
 * [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic)
 * [M + fonts](https://mplus-fonts.osdn.jp/about2.html)
+* [モガゴシック](https://www.flopdesign.com/shop/moga.html)
+## 丸ゴシック
+* [かなたとひなたフォント](https://flopdesign.com/syotai/kanata.html)
+* [いろはまる](http://modi.jpn.org/font_irohamaru.php)
 
 ## 明朝体
 
