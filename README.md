@@ -1,5 +1,7 @@
 
-# Awesome Japanese fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Awesome Japanese fonts
+
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 素晴らしい日本語フォントの一覧です
 
 ## ゴシック体
