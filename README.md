@@ -23,4 +23,5 @@
 * [HackGen](https://github.com/yuru7/HackGen:w)
 * [PlemolJP](https://github.com/yuru7/PlemolJP)
 * [Firge](https://github.com/yuru7/Firge)
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
