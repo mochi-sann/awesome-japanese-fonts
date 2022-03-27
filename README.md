@@ -27,5 +27,7 @@
 * [HackGen](https://github.com/yuru7/HackGen:w)
 * [PlemolJP](https://github.com/yuru7/PlemolJP)
 * [Firge](https://github.com/yuru7/Firge)
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 * [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)
 * [SFMono Square](https://github.com/delphinus/homebrew-sfmono-square)
+
