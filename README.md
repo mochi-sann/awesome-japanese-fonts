@@ -34,7 +34,7 @@
 * [Cica](https://github.com/miiton/Cica)
 * [Ricty](https://github.com/kudryavka/Ricty)
 * [UDEV Gothic](https://github.com/yuru7/udev-gothic)
-* [HackGen](https://github.com/yuru7/HackGen:w)
+* [HackGen](https://github.com/yuru7/HackGen)
 * [PlemolJP](https://github.com/yuru7/PlemolJP)
 * [Firge](https://github.com/yuru7/Firge)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
